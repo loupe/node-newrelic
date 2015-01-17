@@ -24,6 +24,6 @@ exports.config = {
 
   agent_enabled : true,
 
-  ssl: true
+  ssl: false
 };
 
